@@ -32,7 +32,7 @@ Clone the repository from GitHub: [https://github.com/Jassibro/EDA-PROJECT.git].
 
 Install the required dependencies. [pandas,numpy,seaborn,matplotlib]
 
-Download the dataset from Kaggle.
+Download the dataset available from the github link above.
 
 ### Results
 
